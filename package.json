@@ -1,0 +1,11 @@
+{
+  "name": "rentease-backend",
+  "version": "1.0.0",
+  "description": "RentEase - rent, tenants and bills with an Express + SQLite backend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "express": "^4.21.2"
+  }
+}
